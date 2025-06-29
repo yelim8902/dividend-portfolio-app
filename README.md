@@ -14,8 +14,8 @@ Streamlit을 사용한 배당 포트폴리오 최적화 웹 애플리케이션�
 ### 1. 저장소 클론
 
 ```bash
-git clone <repository-url>
-cd app
+git clone https://github.com/yelim8902/dividend-portfolio-app.git
+cd dividend-portfolio-app
 ```
 
 ### 2. 가상환경 생성 및 활성화
